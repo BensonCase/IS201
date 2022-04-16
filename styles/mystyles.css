@@ -1,0 +1,66 @@
+.homebg {
+    background-image: url(../images/background\ 1.jpg);
+    background-position: bottom-right;
+    background-size:cover;
+}
+
+.OAS{
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+    color: #45a293;
+    text-decoration: none;
+}
+
+.ReCenter{
+    text-align:left
+}
+
+a{
+    text-decoration:none;
+    color: #c5c5c5;
+}
+
+a:hover {
+    text-decoration: underline;
+    color:#66FCF1
+}
+
+.OtherColor{
+    color: #1f2833;
+}
+
+.MainBody{
+    margin-top: 20px;
+    margin-left: left;
+    margin-right: right;
+    padding-top: 5px;
+    padding-bottom: 10px;
+    background-color:#0b0c10;
+}
+
+.HeaderBody{
+    margin-top: 0px;
+    margin-bottom: 5px;
+    margin-left: left;
+    margin-right: right;
+    padding-top: 5px;
+    padding-bottom: 10px;
+    background-color:#0b0c10;
+}
+
+.title{
+    font-size:50px;
+}
+
+.subtitle{
+    font-size:35px;
+    color:#c5c5c5;
+}
+
+.whitetext{
+    color:#c5c5c5;
+}
+
+.bold {
+    font-weight:bold;
+}

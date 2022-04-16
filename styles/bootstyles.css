@@ -1,0 +1,63 @@
+.tableaubg{
+    background-color:#3f4b4a;
+}
+
+a{
+    color: #062e27;
+}
+
+a:hover {
+    text-decoration: underline;
+    color: #c5c5c5;
+}
+
+.textcolor {
+    font-family:Arial, Helvetica, sans-serif;
+    text-align: center;
+    color: #062e27;
+    text-decoration: none;
+}
+
+.common{
+    background-color:#45a293;
+    border: solid 2px #66FCF1;
+    position: absolute;
+}
+
+.headerposition{
+    top: 5px;
+    left: 5px;
+    right: 5px;
+    height: 25px;
+}
+
+.mainposition{
+    top: 39px;
+    left: 5px;
+    right: 5px;
+    bottom: 39px;
+    overflow-x: hidden;
+    overflow-y: auto;
+    text-align:justify;
+}
+
+.footerposition{
+    bottom:5px;
+    left: 5px;
+    right: 5px;
+    height: 25px;
+    position:fixed;
+}
+
+.footerstyle {
+    color:#062e27;
+    font-weight: bolder;
+    font-size:small;
+    font-style:italic;
+}
+
+.captionstyle{
+    color:#062e27;
+    font-weight:bold;
+    font-size: medium;
+}
